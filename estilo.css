@@ -1,0 +1,49 @@
+body {
+    background-image: url("background.png");
+}
+
+h7 {
+    background-color: aquamarine;
+}
+
+h3 {
+    background-color: aquamarine;
+}
+
+td {
+    background-color: lightslategray;
+}
+
+fieldset {
+    background-color: floralwhite;
+}
+
+.bananamoth {
+    background-color: yellow;
+}
+
+img {
+    width: 2.5rem;
+    height: 2.5rem
+}
+
+body {
+    font-family: 'Courier prime', monospace;
+}
+
+.bingus {
+    background-color: antiquewhite;
+}
+
+.burger {
+    display: list-item;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.burger div {
+    width: 25px;
+    height: 3px;
+    background: #fff;
+    margin: 4px;
+}
